@@ -36,7 +36,6 @@ FreshKeep does not train a machine learning model; Gemini is used as an external
 - TypeScript
 - React
 - Tailwind CSS
-- Lucide React
 - Browser localStorage
 - Google Gemini API
 - Vercel
